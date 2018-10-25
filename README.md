@@ -1,3 +1,3 @@
 # Rambazamba
 More Ramba to the zamba
-training repository for github workshop
+- a training repository for github workshop
